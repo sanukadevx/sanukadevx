@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sanukadevx
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web Developing
-- 💞️ I’m looking to collaborate on App Developing
 - 📫 To reach me plz Contact Email
 
 <!---
