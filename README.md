@@ -1,4 +1,3 @@
-<br>
 <h1 align="center">Hi 👋, I'm Sanuka Rathnayake</h1>
 <h3 align="center">A Passionate Fullstack Developer | Exploring Boundless World of Technology</h3>
 <br>
