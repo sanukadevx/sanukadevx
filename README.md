@@ -8,9 +8,9 @@
 
 - 👯 I’m looking to collaborate on **Developing Web Apps**
 
-- 👨‍💻 All of my projects are available at [sanukadev.me/](https://sanukadev.vercel.app/)
+- 👨‍💻 All of my projects are available at [sanukadev.me](https://sanukadev.vercel.app/)
 
-- 💻 Freelancing available at [wiregenx.com/](https://wiregen.vercel.app/)
+- 💻 Freelancing available at [wiregenx.com](https://wiregen.vercel.app/)
 
 - 📫 How to reach me **sanukadev@gmail.com**
 
