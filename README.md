@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [sanukadev.me](https://sanukadev.me/)
 
-- 💻 Freelancing available at [wiregenx.com](https://wiregen.vercel.app/)
+- 💻 Freelancing available at [wiregeninc.dev](https://wiregeninc.dev/)
 
 - 📫 How to reach me **sanukadev@gmail.com**
 
