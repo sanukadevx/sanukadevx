@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on **Full Stack Web Developement**
 
-- 🌱 I’m currently learning **React Js, Node Js, Express Js & Next Js**
+- 🌱 I’m currently learning **Advanced Backend Techniques**
 
-- 👯 I’m looking to collaborate on **Developing Web Apps**
+- 👯 I’m looking to collaborate on **Developing Web Apps & Systems**
 
 - 👨‍💻 All of my projects are available at [sanukadev.me](https://sanukadev.me/)
 
