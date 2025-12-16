@@ -1,18 +1,18 @@
-<h1 align="center">Hi 👋, I'm Sanuka Rathnayake</h1>
-<h3 align="center">A Passionate Fullstack Developer | Exploring Boundless World of Technology</h3>
+<h1>Hi 👋, I'm Sanuka Rathnayake</h1>
+<h3>A Passionate Fullstack Developer | Exploring Boundless World of Technology</h3>
 <br>
 
-- 🔭 I’m currently working on **Full Stack Web Developement**
+- I’m currently working on **Full Stack Web Developement**
 
-- 🌱 I’m currently learning **Advanced Backend Techniques**
+- I’m currently learning **Advanced Backend Techniques**
 
-- 👯 I’m looking to collaborate on **Developing Web Apps & Systems**
+- I’m looking to collaborate on **Developing Web Apps & Systems**
 
-- 👨‍💻 My portfolio available at [sanukadev.me](https://sanukadev.me/)
+- My portfolio available at [sanukadev.me](https://sanukadev.me/)
 
-- 💻 Freelancing available at [wiregenx.com](https://wiregenx.com/)
+- Freelancing available at [wiregenx.com](https://wiregenx.com/)
 
-- 📫 How to reach me **sanukadev@gmail.com**
+- How to reach me **sanukadev@gmail.com**
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanukadevx&show_icons=true&locale=en&layout=compact" alt="sanukadevx" /></p>
 
