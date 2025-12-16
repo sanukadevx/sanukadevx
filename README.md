@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Sanuka Rathnayake</h1>
 <h3>A Passionate Fullstack Developer | Exploring Boundless World of Technology</h3>
-<br>
 
 - I’m currently working on **Full Stack Web Developement**
 
