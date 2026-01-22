@@ -3,7 +3,7 @@
 
 - I’m currently working on **Full Stack Web Developement**
 
-- I’m currently learning **Advanced Backend Techniques**
+- I’m currently learning **DevOps and Cloud**
 
 - I’m looking to collaborate on **Developing Web Apps & Systems**
 
